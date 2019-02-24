@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azuremvc", "azuremvc\azuremvc.csproj", "{0A7483EE-4FCF-46B0-804F-3A1A173B4040}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6AF72099-57AF-4AF8-A0CB-3CA98BC9E2DF} = {6AF72099-57AF-4AF8-A0CB-3CA98BC9E2DF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageAccountLibrary", "StorageAccountLibrary\StorageAccountLibrary.csproj", "{6AF72099-57AF-4AF8-A0CB-3CA98BC9E2DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A7483EE-4FCF-46B0-804F-3A1A173B4040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7483EE-4FCF-46B0-804F-3A1A173B4040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7483EE-4FCF-46B0-804F-3A1A173B4040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7483EE-4FCF-46B0-804F-3A1A173B4040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF72099-57AF-4AF8-A0CB-3CA98BC9E2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF72099-57AF-4AF8-A0CB-3CA98BC9E2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF72099-57AF-4AF8-A0CB-3CA98BC9E2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF72099-57AF-4AF8-A0CB-3CA98BC9E2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD5E08D0-E460-4B36-A29B-10CF3B4FCEB2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\StorageAccountLibrary.dll.config
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\StorageAccountLibrary.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\StorageAccountLibrary.pdb
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\obj\Debug\StorageAccountLibrary.csprojAssemblyReference.cache
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\obj\Debug\StorageAccountLibrary.csproj.CoreCompileInputs.cache
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\obj\Debug\StorageAccountLibrary.csproj.CopyComplete
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\obj\Debug\StorageAccountLibrary.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\StorageAccountLibrary\obj\Debug\StorageAccountLibrary.pdb

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<StorageAccountLibrary.Entity.BlobData>
+
+@{
+    ViewBag.Title = "UserProfileBlobList";
+}
+
+<h2>UserProfileBlobList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.name)*@
+            @*<a href="javascript:CallAction(@item.path);"> @item.name </a>*@
+            <a href="#" onclick="javascript:CallAction('@item.path')"> @item.name </a>
+            @*<a href="#" onclick="@(Html.Raw(String.Format("CallAction({0})",item.path)))"> @item.name </a>*@
+        </td>
+        @*<td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>*@
+    </tr>
+}
+
+</table>
+
+<script type="text/javascript">
+    function CallAction(path)
+    {
+        $.ajax({
+            url: "/user/DownloadFile",
+            method: "Post",
+            //dataType: "json",
+            data: { filePath: path },
+            success: function (data, status, jqXHR) {
+               // window.location = '/User/DownloadFile';
+            },
+
+        });
+    }
+</script>

@@ -1,0 +1,160 @@
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\ApplicationInsights.config
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\csc.exe
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\csc.exe.config
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\csc.rsp
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\csi.exe
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\csi.rsp
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.AppContext.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.IO.FileSystem.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\vbc.exe
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\vbc.exe.config
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\vbc.rsp
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\VBCSCompiler.exe
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\azuremvc.dll.config
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\azuremvc.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\azuremvc.pdb
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Antlr3.Runtime.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.Web.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.WindowsServer.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.ApplicationInsights.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Newtonsoft.Json.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Net.Http.Formatting.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Helpers.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Http.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Http.WebHost.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Mvc.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Optimization.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Razor.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.Deployment.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.Razor.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\WebGrease.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Helpers.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Mvc.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Optimization.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Razor.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.Deployment.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.Razor.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Antlr3.Runtime.pdb
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Newtonsoft.Json.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Net.Http.Formatting.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Http.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\System.Web.Http.WebHost.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.ApplicationInsights.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.WindowsServer.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.Web.xml
+C:\projects\azuremvc2\azuremvc\azuremvc\obj\Debug\azuremvc.csprojResolveAssemblyReference.cache
+C:\projects\azuremvc2\azuremvc\azuremvc\obj\Debug\azuremvc.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\obj\Debug\azuremvc.pdb
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\itextsharp.dll
+C:\projects\azuremvc2\azuremvc\azuremvc\bin\itextsharp.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\obj\Debug\azuremvc.csprojAssemblyReference.cache
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\obj\Debug\azuremvc.csproj.CoreCompileInputs.cache
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\obj\Debug\azuremvc.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\obj\Debug\azuremvc.pdb
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\ApplicationInsights.config
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\csc.exe
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\csc.exe.config
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\csc.rsp
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\csi.exe
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\csi.rsp
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.AppContext.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.Collections.Immutable.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.IO.FileSystem.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\vbc.exe
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\vbc.exe.config
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\vbc.rsp
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\VBCSCompiler.exe
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\roslyn\VBCSCompiler.exe.config
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\azuremvc.dll.config
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\azuremvc.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\azuremvc.pdb
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Antlr3.Runtime.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\itextsharp.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.DependencyCollector.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.Web.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.WindowsServer.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.ApplicationInsights.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.Web.Infrastructure.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Newtonsoft.Json.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\StorageAccountLibrary.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Net.Http.Formatting.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Helpers.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Http.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Http.WebHost.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Mvc.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Optimization.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Razor.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.Deployment.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.Razor.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\WebGrease.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.WindowsAzure.Storage.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.Azure.KeyVault.Core.dll
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\StorageAccountLibrary.pdb
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\StorageAccountLibrary.dll.config
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\itextsharp.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Helpers.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Mvc.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Optimization.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Razor.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.Deployment.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.WebPages.Razor.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Antlr3.Runtime.pdb
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Newtonsoft.Json.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Net.Http.Formatting.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Http.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\System.Web.Http.WebHost.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.ApplicationInsights.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.DependencyCollector.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.WindowsServer.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.AI.Web.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.WindowsAzure.Storage.pdb
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.WindowsAzure.Storage.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\bin\Microsoft.Azure.KeyVault.Core.xml
+E:\Study Material\Azure\VM\azuremvc2\azuremvc2\azuremvc\azuremvc\obj\Debug\azuremvc.csproj.CopyComplete
